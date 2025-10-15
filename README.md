@@ -1,5 +1,6 @@
 # calculator
-页面展示：
+基础页面展示：
+
 <img width="560" height="1088" alt="image" src="https://github.com/user-attachments/assets/fdd222db-d2ba-47f6-931b-7a06301fba93" />
 
 一、整体架构设计
